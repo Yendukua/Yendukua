@@ -1,4 +1,5 @@
-## Hi there 👋
+## My name is Kolaan Moses Yendukua
+### I Am a developer
 
 <!--
 **Yendukua/Yendukua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
