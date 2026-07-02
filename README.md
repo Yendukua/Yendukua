@@ -1,7 +1,7 @@
 # About Me
 ## My name is Kolaan Moses Yendukua
 ### I Am a developer
-
+### I am also a Data scientist
 <!--
 **Yendukua/Yendukua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
